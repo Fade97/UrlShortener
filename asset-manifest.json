@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fade97/UrlShortener/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Fade97/UrlShortener/static/js/main.89b64efc.chunk.js",
+    "main.js.map": "/Fade97/UrlShortener/static/js/main.89b64efc.chunk.js.map",
+    "runtime-main.js": "/Fade97/UrlShortener/static/js/runtime-main.ad6cc8bc.js",
+    "runtime-main.js.map": "/Fade97/UrlShortener/static/js/runtime-main.ad6cc8bc.js.map",
+    "static/js/2.66044491.chunk.js": "/Fade97/UrlShortener/static/js/2.66044491.chunk.js",
+    "static/js/2.66044491.chunk.js.map": "/Fade97/UrlShortener/static/js/2.66044491.chunk.js.map",
+    "static/js/3.67ac894c.chunk.js": "/Fade97/UrlShortener/static/js/3.67ac894c.chunk.js",
+    "static/js/3.67ac894c.chunk.js.map": "/Fade97/UrlShortener/static/js/3.67ac894c.chunk.js.map",
+    "index.html": "/Fade97/UrlShortener/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Fade97/UrlShortener/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.66044491.chunk.js.LICENSE.txt": "/Fade97/UrlShortener/static/js/2.66044491.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6cc8bc.js",
+    "static/js/2.66044491.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.89b64efc.chunk.js"
+  ]
+}
